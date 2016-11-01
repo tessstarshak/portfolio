@@ -6,6 +6,15 @@ object ParsedWdList {
   def main(args: Array[String]) {
     val words = Source.fromFile(args(0)).getLines.toVector.mkString.split("\\W+")
     val listOfWords = words.filterNot(_.isEmpty).distinct
+    val pairs = listOfWords.map (w => (w, parsedWd(w)))
+
+
+    for ( pr <- pairs) {
+      println (pr)//(_._1 + "\t" + _._2)
+    }
+    }
+
+
 
   def lemmaForEntry (nseq: NodeSeq) = {
     if (nseq.size > 0) {
@@ -42,8 +51,9 @@ def parsedWd (s: String) = {
  lexent
 }
 
-listOfWords.map (w => (w, parsedWd(w)) )
+
 }
-}
+
+
 
 ParsedWdList.main(args)
