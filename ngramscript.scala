@@ -15,10 +15,6 @@ def nextNgram(s: String, wordlist: Array[String]) = {
    val matchingLists =  ngramList.filter(_.contains(s))
    val fullword = matchingLists.map(_.sliding(n)).toVector.mkString("")
 
-   for (flwd <- fullword) {
-     println(flwd)
-   }
-
    var nextN = new ListBuffer[String]()
    for (mtch <- matchingLists) {
      val idx = mtch.indexOf(s)
@@ -41,7 +37,10 @@ def main(args: Array[String]) = {
   val lns = Source.fromFile("EntireWordList.txt").getLines.toVector.mkString
   val words = lns.split("\\W").filterNot(_.isEmpty).map(w => "^" + w + "#")
 
-  val fullwords = words.
+  val fullwords = words.filter(_.contains(s)).toVector.mkString(",")
+  println("Fullword possibilities: " + fullwords)
+  val fullwordssz = fullwords.size
+  println("Number of full words containing s: " + fullwordssz)
 
 
   val results = nextNgram(s,words)
