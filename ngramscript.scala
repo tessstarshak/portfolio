@@ -33,10 +33,16 @@ def nextNgram(s: String, wordlist: Array[String]) = {
  }
 
  //val words = Source.fromFile("EntireWordList.txt").getLines.mkString
+// s is string to search for
+//
+object ngram {
+def main(args: Array[String]) = {
+  val s = args(0)
+  val lns = Source.fromFile("EntireWordList.txt").getLines.toVector.mkString
+  val words = lns.split("\\W").filterNot(_.isEmpty).map(w => "^" + w + "#")
 
-def main(s: String, EntireWordList : String) = {
-  val lns = Source.fromFile("EntireWordList.txt").getLines.toVector
-  val words = lns(0).split("\\W").filterNot(_.isEmpty).map(w => "^" + w + "#")
+  val fullwords = words.
+
 
   val results = nextNgram(s,words)
   println("Testing ngram searching!")
@@ -48,6 +54,9 @@ def main(s: String, EntireWordList : String) = {
     println(cnt)
   }
   }
+}
+
+ngram.main(args)
 
 
 
