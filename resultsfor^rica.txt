@@ -1,0 +1,6 @@
+Fullword possibilities: ^ricardus#,^ricardus#,^ricardum#,^ricardi#,^ricardus#,^ricardus#,^ricardi#,^ricardus#,^ricardo#,^ricardi#,^ricardus#,^ricardus#,^ricardi#,^ricardum#,^ricardi#,^ricardo#,^ricardo#,^ricardus#,^ricardum#,^ricardus#,^ricardo#,^ricardus#,^ricardus#,^ricardus#,^ricardus#,^ricardo#,^ricardo#,^ricardus#,^ricardi#,^ricardus#,^ricardus#,^ricardus#
+Number of full words containing s: 339
+Testing ngram searching!
+Searching for n-gram: ^rica
+Number possible next ngrams: 32
+(ricar,32)
