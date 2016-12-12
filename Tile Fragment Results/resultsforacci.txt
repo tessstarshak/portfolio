@@ -1,0 +1,10 @@
+Fullword possibilities: ^accidit#,^accidit#,^accinctus#,^acciderit#,^accitis#,^accidere#,^accincti#,^accipe#,^acciperet#,^accipiens#,^acci#,^accitis#,^accipere#,^accidit#,^accidat#,^accidit#,^accincti#,^acciderat#,^accideret#,^accidit#,^accinctus#,^acciderit#,^accingimini#,^accingimini#,^accingebant#,^acciderat#,^accingeretur#,^accinguntur#,^acciderat#,^accingunt#,^accinguntur#,^acciderat#,^accidit#,^accingunt#,^accidisse#,^accidisse#,^accinctum#,^acciderat#,^acciderant#,^accidit#,^acciderat#,^acciderat#,^acciderat#,^accidisse#,^accipientes#,^accinguntur#,^accidisset#,^accingunt#,^accingentes#,^accingunt#,^accidisse#,^accipitribus#,^accidere#,^acciderat#,^accidit#,^accidit#,^accingens#,^accito#,^accito#,^accingerentur#,^accidebant#,^acciderat#,^acciderat#,^accideret#,^acciderat#,^acciderat#,^accingebant#,^accingam#,^acciderat#,^acciderat#,^accidit#,^accidere#,^accidere#,^accidit#,^accidit#,^acciderat#,^accidit#,^accidit#,^accingerentur#,^accingunt#,^accidit#,^acciderit#,^accidit#,^accingeret#,^acciperent#,^accingere#,^accidit#,^accipiebatur#
+Number of full words containing s: 1033
+Testing ngram searching!
+Searching for n-gram: acci
+Number possible next ngrams: 88
+(ccit,4)
+(ccip,8)
+(ccin,25)
+(ccid,50)
+(cci#,1)

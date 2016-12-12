@@ -1,0 +1,8 @@
+Fullword possibilities: ^figitur#,^praefigitur#,^affigi#,^effigie#
+Number of full words containing s: 42
+Testing ngram searching!
+Searching for n-gram: figi
+Number possible next ngrams: 4
+(igit,2)
+(igie,1)
+(igi#,1)

@@ -1,0 +1,11 @@
+Fullword possibilities: ^anglia#,^angliae#,^angliae#,^anglicum#,^angliae#,^angliam#,^angliam#,^angliae#,^anglidb#,^angliae#,^angliae#,^angliae#,^angliae#,^anglia#,^anglis#,^anglise#,^anglis#,^angliae#,^angliae#,^angliae#,^angliae#,^anglias#,^angliae#,^angliam#,^anglise#,^anglia#,^angliae#,^angliam#,^angliae#,^angliam#,^angliam#,^angliae#,^gliam#,^angliam#,^anglise#,^angliam#,^angliam#,^angliam#,^anglia#,^anglica#,^anglica#,^anglis#,^angli#,^anglia#,^angliam#,^anglia#,^angliam#,^angliam#,^augliam#,^anglis#,^angligenas#,^angligenas#,^angliae#,^angliae#,^angliae#,^angli#,^negligenda#,^negligentes#,^anglia#,^negligere#,^negligens#,^negligere#,^negligentius#,^negligentius#,^negligentes#,^negligere#
+Number of full words containing s: 678
+Testing ngram searching!
+Searching for n-gram: gli
+Number possible next ngrams: 66
+(lid,1)
+(li#,2)
+(lic,3)
+(lis,7)
+(lig,11)
+(lia,42)

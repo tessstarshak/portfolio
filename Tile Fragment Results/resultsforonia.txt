@@ -1,0 +1,5 @@
+Fullword possibilities: ^wintonia#,^vasconia#,^glastonia#,^londonia#,^turonia#,^vasconia#,^wintonia#,^wintonia#,^oxonia#,^exonia#,^bathonia#,^wintonia#,^dsemonia#,^praeconia#,^praeconia#,^alimonia#,^franconia#,^praeconia#,^querimonia#,^colonia#,^franconia#,^praeconia#,^macedonia#,^praeconia#,^pelagonia#,^macedonia#,^patrimonia#,^pelagonia#,^macedonia#,^praeconia#,^praeconia#,^frisonia#,^praeconia#,^aonia#,^parcimonia#,^praeconia#,^alimonia#,^praeconia#,^praeconia#,^patrimonia#,^patrimonia#,^praeconia#,^praeconia#,^alimonia#,^alimonia#,^patrimonia#,^praeconia#
+Number of full words containing s: 541
+Testing ngram searching!
+Searching for n-gram: onia#
+Number possible next ngrams: 0

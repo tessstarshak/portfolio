@@ -1,0 +1,10 @@
+Fullword possibilities: ^salahaso#,^marchasius#,^has#,^has#,^adhasren#,^has#,^has#,^has#,^scrophas#,^hastis#
+Number of full words containing s: 84
+Testing ngram searching!
+Searching for n-gram: has
+Number possible next ngrams: 10
+(aso,1)
+(as#,6)
+(asr,1)
+(ast,1)
+(asi,1)

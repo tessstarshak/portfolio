@@ -1,0 +1,5 @@
+Fullword possibilities: ^gloria#,^victoria#,^victoria#,^memoria#,^tictoria#,^diversoria#,^gloria#,^tyrehistoria#,^historia#,^gloria#,^victoria#,^victoria#,^victoria#,^memoria#,^memoria#,^tentoria#,^consolatoria#,^victoria#,^victoria#,^tentoria#,^memoria#,^victoria#,^historia#,^gloria#,^gloria#,^gloria#,^gloria#,^victoria#,^tentoria#,^tentoria#,^gloria#,^tentoria#,^tentoria#,^tentoria#,^victoria#,^victoria#,^victoria#,^victoria#,^memoria#,^victoria#,^victoria#,^victoria#,^mutatoria#,^gloria#,^victoria#,^historia#,^victoria#,^memoria#,^victoria#,^victoria#,^memoria#,^memoria#,^victoria#,^memoria#,^victoria#,^tentoria#,^diversoria#,^victoria#
+Number of full words containing s: 623
+Testing ngram searching!
+Searching for n-gram: oria#
+Number possible next ngrams: 0

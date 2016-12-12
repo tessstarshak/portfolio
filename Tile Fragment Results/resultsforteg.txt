@@ -1,0 +1,10 @@
+Fullword possibilities: ^integram#,^integerrima#,^integmm#,^tegitur#,^mategriflfun#,^detegitur#,^integrum#,^integrum#,^tegentes#,^integumenta#,^integer#,^integer#,^integrae#,^sategerunt#,^integritate#,^deteguntcompertum#,^detegebatur#,^integritatem#,^integras#,^integrum#,^integro#,^integro#,^protegere#,^integrum#,^reintegrato#,^protegente#,^integrum#,^redintegratis#,^integritatem#,^reintegrato#,^protegente#,^integra#,^integrae#,^integritatem#,^integrum#,^reintegratis#
+Number of full words containing s: 448
+Testing ngram searching!
+Searching for n-gram: teg
+Number possible next ngrams: 36
+(ege,9)
+(egu,2)
+(egm,1)
+(egi,2)
+(egr,22)

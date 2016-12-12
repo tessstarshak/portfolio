@@ -1,0 +1,11 @@
+Fullword possibilities: ^libellus#,^bellua#,^rebelles#,^bella#,^bellicosa#,^bello#,^belvacensem#,^bella#,^bellua#,^imbellis#,^bello#,^belvacensis#,^belva#,^bella#,^bellorum#,^belpheth#,^scabelli#,^bello#,^bellegravia#,^bellegraviam#,^bellum#,^bellegrava#,^bellegravam#,^belial#,^bellum#,^belli#,^bellegrava#,^bellegravam#,^belli#,^bellicoso#,^belfetofh#,^belli#,^belvaco#,^bellua#,^belluam#,^gabelo#,^bello#,^belli#,^belfetoh#,^bellicis#,^imbellis#,^bello#,^belli#,^bellum#,^belli#,^bellicis#,^bellum#,^bellum#,^bellum#,^bellicis#,^belvacensis#,^rebelles#,^imbellem#,^imbellis#,^belli#,^bellum#
+Number of full words containing s: 570
+Testing ngram searching!
+Searching for n-gram: bel
+Number possible next ngrams: 56
+(eli,1)
+(ell,46)
+(elp,1)
+(elv,5)
+(elo,1)
+(elf,2)

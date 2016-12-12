@@ -1,0 +1,9 @@
+Fullword possibilities: ^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^summumquesilentiumyrex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^perrexit#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rexanglomm#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^erexerant#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^direxit#,^rex#,^rex#,^rex#,^rex#,^rex#,^insurrexit#,^rex#,^rex#,^rex#,^erexerant#,^direxerunt#,^rex#,^rex#,^rex#,^rex#,^rex#,^rex#,^porrexerat#,^rex#,^direxerat#,^direxit#,^rex#,^direxerat#,^direxerat#,^direxit#,^direxisse#,^direxit#,^direxit#,^direxerunt#
+Number of full words containing s: 876
+Testing ngram searching!
+Searching for n-gram: rex
+Number possible next ngrams: 127
+(exe,8)
+(exa,1)
+(exi,8)
+(ex#,110)

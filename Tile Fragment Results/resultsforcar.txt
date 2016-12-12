@@ -1,0 +1,16 @@
+Fullword possibilities: ^ricardus#,^cartusiam#,^cartusiae#,^caritatem#,^caritatis#,^incarnatione#,^ricardus#,^vocaretur#,^ricardum#,^ricardi#,^ricardus#,^revocare#,^incarnatione#,^ricardus#,^ricardi#,^scaccario#,^scaccarii#,^carnis#,^carissime#,^praedicaretur#,^ricardus#,^peccarent#,^peccaretur#,^ricardo#,^accaron#,^ricardi#,^ulciscar#,^ricardus#,^scaccario#,^cartusise#,^praedicare#,^ricardus#,^significare#,^fabricare#,^carcere#,^ricardi#,^carcere#,^calcar#,^care#,^scaccarii#,^fiscarios#,^ricardum#,^cartam#,^ricardi#,^convocare#,^applicare#,^ricardo#,^caro#,^accaronis#,^accaronem#,^ricardo#,^ricardus#,^ricardum#,^accaronis#,^carracois#,^accarone#,^carracois#,^accaronis#,^vindicare#,^vindicare#,^accaronem#,^revocaretur#,^ricardus#,^accarone#,^ricardo#,^cari#,^fiscarios#,^revocare#,^vicario#,^advocarent#,^judicare#,^fiscarios#,^obuyiscaris#,^aedificare#,^cardinalibus#,^vicariis#,^yicarius#,^vicario#,^carperet#,^carpi#,^ricardus#,^ricardus#,^ricardus#,^ricardus#,^accaronem#,^ricardo#,^carperc#,^mercari#,^ricardo#,^accaronem#,^ricardus#,^accaronem#,^accaronem#,^ricardi#,^sicarios#,^accaronem#,^ricardus#,^ricardus#,^accarone#,^ricardus#,^carituram#,^superaedificare#,^incarnatione#,^carere#,^vindicare#,^reaedificari#,^aedificari#,^caroli#,^caroli#,^carolo#,^judicaret#,^carthagini#,^incarnatione#,^carianite#,^carianitis#,^carnem#,^incarnatione#,^carceres#,^carceres#,^basilicarum#,^sicarii#,^caro#,^revocare#,^carcerem#,^conculcari#,^revocare#,^carceribus#,^incarnatione#,^conculcari#,^convocare#,^carnem#,^irascar#,^carne#,^fornicari#,^carceribus#,^invocarent#,^carnotensium#,^guiscardi#,^incarnatione#,^revocare#,^convocaret#,^vindicare#,^revocare#,^provocare#,^convocari#,^provocarunt#,^carpentarius#,^carecto#,^carinthiam#,^incarnatione#,^vindicare#,^carentia#,^carcere#,^carpentarius#,^evocare#,^carni#,^carnotensis#,^provocare#,^evocari#,^revocare#,^carnotensium#,^locare#,^collocarent#,^locare#,^carnotensium#,^carne#,^applicarent#,^collocari#,^applicare#,^incarnatione#,^communicarent#,^carcere#,^evocari#,^carens#,^vindicarent#,^vocari#,^revocari#,^locare#,^certificaret#,^locare#,^communicare#,^communicare#,^carnificibus#,^carnibus#,^revocari#,^evocare#,^multiplicarent#,^incarnatione#,^aedificaretur#,^collocari#,^carnotensium#,^mechanicarum#,^convacarent#,^vindicares#,^dijudicare#,^carnis#,^evocari#,^significare#,^communicaret#,^evocari#,^incarnatione#,^provocarent#,^carpentarius#,^dedicarent#,^mendicare#,^speluncarum#,^carnotensium#,^carnotensium#,^revocare#,^carnem#,^revocare#,^revocare#,^carens#,^vindicare#,^significare#,^iscardus#,^significare#,^multiplicare#,^revocare#,^mendicare#,^incarnatione#
+Number of full words containing s: 2611
+Testing ngram searching!
+Searching for n-gram: car
+Number possible next ngrams: 221
+(art,5)
+(arn,29)
+(are,71)
+(aro,19)
+(aru,4)
+(ari,38)
+(arc,9)
+(ar#,3)
+(arr,2)
+(ard,35)
+(arp,6)

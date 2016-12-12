@@ -1,0 +1,9 @@
+Fullword possibilities: ^cerneres#,^genere#,^exponerent#,^sustinere#,^obtinere#,^genere#,^venere#,^disponere#,^itinere#,^sineret#,^poneretur#,^obtinere#,^genere#,^munere#,^remaneret#,^imminere#,^sustinere#,^disponere#,^substernere#,^praeponeret#,^deponerentur#,^decernerent#,^sustineret#,^opponeret#,^itinere#,^itinere#,^genere#,^imponere#,^exponere#,^continere#,^obtineret#,^sustinere#,^manere#,^itinere#,^componeret#,^obtinere#,^itinere#,^itinere#,^itinere#,^itinere#,^obtineret#,^commanere#,^detinere#,^ponere#,^imponere#,^sustinere#,^tenerentur#,^itinere#,^detinerentur#,^detinere#,^immineret#,^sustinere#,^remaneret#,^manere#,^sustinere#,^itinere#,^itinere#,^itinere#,^tenerent#,^discernere#,^itinere#,^obtinere#,^itinere#,^itinere#,^disponerent#,^obtinere#,^itinere#,^itinere#,^itinere#,^itinere#,^sustinere#,^poneret#,^genere#,^itinere#,^genere#,^cineres#,^praeponerent#,^genere#,^proponeret#,^admonerent#,^vulnere#,^vulnere#,^genere#,^genere#,^vulnere#,^deponerent#,^itinere#,^itinere#,^itinere#,^disponere#,^itinere#,^sustineret#,^genere#,^itinere#,^tenerentur#,^obtinere#,^cernerent#,^genere#,^interponeret#,^genere#,^itinere#,^opponeret#,^itinere#,^itinere#,^sustinere#,^remanere#,^genere#,^degeneres#,^itinere#,^sustinere#,^itinere#,^imminere#,^praeemineret#,^obtinere#,^disponerent#,^itinere#,^obtineret#,^itinere#,^obtinerent#,^sustinere#,^obtinere#,^detineretur#,^itinere#,^sustinere#,^opponere#,^proponere#,^deponere#,^proponere#,^munere#,^disponere#,^disponerent#,^sustineret#,^sustinere#,^munere#,^sustinere#,^munere#,^genere#,^obtinere#
+Number of full words containing s: 1531
+Testing ngram searching!
+Searching for n-gram: nere
+Number possible next ngrams: 138
+(eren,15)
+(eret,20)
+(ere#,100)
+(eres,3)

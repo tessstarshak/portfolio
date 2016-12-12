@@ -1,0 +1,11 @@
+Fullword possibilities: ^baculo#,^abbaciam#,^baculum#,^bacones#,^ibacus#,^baculum#,^subactisque#,^subacta#,^subactis#,^subacta#,^baculo#,^subactis#,^abactis#,^abacturi#,^baccho#,^subactis#,^baculis#,^ammerbac#
+Number of full words containing s: 185
+Testing ngram searching!
+Searching for n-gram: bac
+Number possible next ngrams: 18
+(acu,6)
+(aco,1)
+(aci,1)
+(acc,1)
+(act,8)
+(ac#,1)

@@ -1,0 +1,12 @@
+Fullword possibilities: ^congregationis#,^delegata#,^legatus#,^gate#,^legationem#,^congregatio#,^delegati#,^legatos#,^legatum#,^denegatur#,^confligatis#,^frangat#,^legato#,^rogatus#,^legato#,^legatis#,^legato#,^rogatus#,^allegationes#,^congregationem#,^rogati#,^auegationibus#,^legates#,^legatos#,^allegatio#,^legatis#,^rogatus#,^legati#,^legationis#,^rogatus#,^purgatam#,^purgationem#,^allegationibus#,^allegationibus#,^exigat#,^rogatu#,^legati#,^legatis#,^relegat#,^exigat#,^legationem#,^congregatis#,^fatigati#,^purgata#,^exsurgat#,^legatione#,^fatigatus#,^legationem#,^navigatione#,^legationem#,^legationis#,^legationi#,^promulgatis#,^praerogativa#,^fatigatus#,^suffragatur#,^adjungat#,^obligati#,^legatione#,^purgatorius#,^legationibus#,^legatione#,^congregatis#,^legatione#,^alligatos#,^purgata#,^profligatarum#,^dirigatis#,^interrogatus#,^colligati#,^pervulgatum#,^congregati#,^legatione#,^irrogaturi#,^legatione#,^obligati#,^divulgata#,^legatos#,^legatione#,^legationis#,^fungatur#,^legatio#,^legatos#,^dirigat#,^legatis#,^legatione#,^subjugato#,^rogat#,^legatos#,^legati#,^intelligatur#,^legatos#,^praerogativam#,^legationibus#,^legationem#,^arrogationibus#,^enavigato#,^legatione#,^interrogationes#,^legatos#,^legatus#,^legatio#,^legatione#,^legatio#,^legatorum#,^fatigati#,^legationes#,^rogatus#,^interrogatus#,^legatione#,^praerogativae#,^congregata#,^fatigati#,^legatione#,^fatigata#,^legatione#,^fatigati#,^fatigati#,^fatigata#,^fatigati#,^interrogati#,^mitigata#,^legatione#,^legationibus#,^legatione#,^subjugata#,^legatos#,^rogatu#,^rogat#,^congregato#,^legatione#,^obligati#,^corrogat#,^congregat#,^congregatis#,^colligatis#,^fatigatus#,^rogaturus#,^legatione#,^interrogati#,^legationis#,^legationibus#,^congregata#,^congregati#,^legatos#,^fatigati#,^delegat#,^corbagath#,^corrogatis#,^fatigata#,^obligatus#,^fatigati#,^corbagath#,^corbagath#,^corbagath#,^corbagath#,^alligate#,^colligat#,^irrogata#,^corbagath#,^fatigati#,^fatigati#,^corbagath#,^corbagath#,^defatigatis#,^legationem#,^legatus#,^legationem#,^legatione#,^legationis#,^legationis#,^legatione#,^legationis#,^promulgatum#,^corbagath#,^curbagath#,^corbagath#
+Number of full words containing s: 2113
+Testing ngram searching!
+Searching for n-gram: gat
+Number possible next ngrams: 177
+(ato,18)
+(ata,14)
+(ath,11)
+(ate,3)
+(at#,13)
+(atu,25)
+(ati,93)
